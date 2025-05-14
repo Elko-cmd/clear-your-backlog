@@ -1,0 +1,3 @@
+Hier lege ich Mediendateien ab, die spezifisch für die Arbeit/Projekt sind.
+
+Bilder, Videos, Sounddatein, ...
