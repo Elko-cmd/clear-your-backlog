@@ -1,5 +1,7 @@
-Dieser Vault ist ein Tamplate zur Organisation von künstlerischen oder gestallterischem Output. 
-Sein Ziel ist es eine Hilfestellung zu sein und dich dazu zu befähigen vielseitige Content-Anforderungen schnell zu bearbeiten. 
+# Obsidian Template für künstlerischen oder gestallterischen Output
+Dieser Vault ist ein Tamplate zur Organisation von künstlerischen oder gestallterischem Output.
+Sein Ziel ist es eine Hilfestellung zu sein und dich dazu zu befähigen vielseitige Content-Anforderungen schnell zu bearbeiten.
+
 
 ## Struktur
 # Obsidian Ordnerstruktur
