@@ -58,7 +58,7 @@ Für die nächste Folge des Seminars bringt jede teilnehmende Person bitte eine 
 Die produzierten Texte werden in der Gruppe geteilt. Verbal oder digital. 
 Jede lesende Person gibt Feedback zum Text.
 
-## Feedback
+### Feedback
 - Was hast du von der Arbeit verstanden? 
 - Was ist dir aufgefallen?
 - Hast du Lust die Arbeit in Realität zu sehen, auf Grundlage des Textes?
