@@ -7,7 +7,7 @@ Für die nächste Folge des Seminars bringt jede teilnehmende Person bitte eine 
 1. **Präsentation der Arbeit:**
    - Jede Person stellt sich mit ihrer Arbeit einem Gegenüber vor.
    - Beginnt ein Gespräch mit der Person euch gegenüber, die kein Vorwissen über eure Arbeit hat.
-   - Überlegt euch, wie ihr die für euch wichtigen Punkte klar und verständlich rüberbringen könnt.
+   - Überlegt euch, wie ihr die für euch **wichtigen Punkte** klar und verständlich rüberbringen könnt.
    - Dauer: 10-15 Minuten pro Präsentation
 
 2. **Aufgabe der aufnehmenden Person:**
@@ -20,23 +20,45 @@ Für die nächste Folge des Seminars bringt jede teilnehmende Person bitte eine 
      * Künstlerische Referenzen
      * Aktuelle Herausforderungen
      * Zukünftige Entwicklungen
-
-3. **Ergebnis:**
-   - Am Ende hat jede Person einen Text, auf dem weiter aufgebaut werden kann. Ziel ist es, die Arbeit des Gegenübers besser zu verstehen und die wesentlichen Elemente der Präsentation zu erfassen.
-   - Formatiert eure Notizen in folgender Struktur:
-     * Kurze Zusammenfassung (3-4 Sätze)
-     * Wichtigste Erkenntnisse (3-5 Punkte)
-     * Offene Fragen und Anregungen
-     * Mögliche nächste Schritte
-
 ## Vorbereitung
-
-- Wählt eine Arbeit aus, die ihr gerne diskutieren möchtet
+- Wählt eine Arbeit aus, für die ihr Text benötigt
 - Bereitet 2-3 visuelle Beispiele vor (Fotos, Skizzen, etc.)
 - Überlegt euch im Voraus, welche Aspekte eurer Arbeit ihr besonders hervorheben möchtet
+- Geht davon aus, das euer Gegenüber euren Prozess und eure Arbeit nicht kennt 
+## **Textproduktion:**
+   - Formuliert den Text aus euren Notizen in folgender Struktur:
+     * Kurze Zusammenfassung (3-4 Sätze) 
+	   * Was ist ein prägnanter Satz der den Kern der Arbeit trifft?
+	     * Wie lässt sich die Arbeit klassifizieren? Foto, Konzept, Comic, Film, Spiel, Buch, ...
+	     * Material 
+	     * (Wer hat die Arbeit erstellt?)
+	    
+	   Zielformat: Schnelle Erfassbarkeit der Arbeit, zb. Instagram-Caption, Einleitung längerer Text
+	   
+     * Wichtigste Erkenntnisse (Längerer Text)
+	     * **Einleitung:**
+		     * Was ist die Geschichte? Gibt es einen Ausgangspunkt der Arbeit? 
+		     * Was ist die Arbeit, wie kann ich sie mir vorstellen? Material?
+		 * **Mittelteil:**
+		     * Was ist das Thema der Arbeit?
+		     * Wie ist die Person zur Arbeit gekommen? 
+		     * Wie ist der Prozess?
+		* **Schlussteil:**
+		     * Eigene Reflexion der Arbeit:
+			     * Was sind deine Gedanken zur Arbeit
+			     * Wie verhält sich diese zu dir?
+			
+		Zielformat: Website, mehr tiefergehende Info, Katalogtext, ... 
+			ca. 1000 - 2000 Zeichen
+
+     * Offene Fragen und Anregungen:
+	     * 
+
+
 
 ## Nachbereitung
 
 - Tauscht eure Notizen aus
 - Reflektiert über die gewonnenen Erkenntnisse
 - Plant mögliche Überarbeitungen basierend auf dem Feedback
+
