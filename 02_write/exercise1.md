@@ -52,13 +52,13 @@ Für die nächste Folge des Seminars bringt jede teilnehmende Person bitte eine 
 			ca. 1000 - 2000 Zeichen
 
      * Offene Fragen und Anregungen:
-	     * 
-
-
+	     * Was möchtest du deinem Gegenüber mitgeben?
 
 ## Nachbereitung
+Die produzierten Texte werden in der Gruppe geteilt. Verbal oder digital. 
+Jede lesende Person gibt Feedback zum Text.
 
-- Tauscht eure Notizen aus
-- Reflektiert über die gewonnenen Erkenntnisse
-- Plant mögliche Überarbeitungen basierend auf dem Feedback
-
+## Feedback
+- Was hast du von der Arbeit verstanden? 
+- Was ist dir aufgefallen?
+- Hast du Lust die Arbeit in Realität zu sehen, auf Grundlage des Textes?
