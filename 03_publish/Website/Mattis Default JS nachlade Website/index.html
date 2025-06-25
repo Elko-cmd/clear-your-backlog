@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilder nachladen</title>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Portfolio von default</h1>
+        <p>
+            default ist ein Künstler, der sich mit Graustufen beschäftigt.
+        </p>
+    </div>
+    <div id="images"></div>
+    <script>
+        // Hilfsfunktion: Einfaches Markdown zu HTML (nur h1, h2, h3, p)
+        function simpleMarkdownToHtml(md) {
+            // h1
+            md = md.replace(/^# (.*)$/gm, '<h1>$1</h1>');
+            // h2
+            md = md.replace(/^## (.*)$/gm, '<h2>$1</h2>');
+            // h3
+            md = md.replace(/^### (.*)$/gm, '<h3>$1</h3>');
+            // Absätze (leere Zeile trennt Absätze)
+            md = md.replace(/^(?!<h\d>)(.+)$/gm, '<p>$1</p>');
+            return md;
+        }
+
+        // Bilder mit aufsteigender Nummer laden, bis ein Bild nicht mehr existiert
+        const container = document.getElementById('images');
+        let i = 1;
+        function ladeNaechstesBild() {
+            const img = new Image();
+            img.src = `src/${i}.jpg`;
+            img.alt = `Bild ${i}`;
+            img.style.width = '200px';
+            img.style.margin = '10px';
+            img.onload = function () {
+                container.appendChild(img);
+                // Optional: zugehörige .md-Datei laden und als HTML rendern
+                fetch(`src/${i}.md`).then(r => r.ok ? r.text() : '').then(text => {
+                    if (text) {
+                        const div = document.createElement('div');
+                        div.innerHTML = simpleMarkdownToHtml(text);
+                        container.appendChild(div);
+                    }
+                    i++;
+                    ladeNaechstesBild();
+                });
+            };
+            img.onerror = function () {
+                // Kein weiteres Bild vorhanden, Abbruch
+            };
+        }
+        ladeNaechstesBild();
+    </script>
+</body>
+
+</html>
+
+<style>
+    html {
+        margin: 0;
+        padding: 0;
+    }
+
+    #container {
+        font-size: 1rem;
+        font-weight: bold;
+        margin: 2rem;
+
+    }
+
+    body {
+        background-color: #000;
+        color: #fff;
+    }
+
+    #images {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100vw;
+    }
+</style>
