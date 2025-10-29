@@ -1,7 +1,7 @@
 # Seminar Schreibübung: Artiststatment
-In dieser Übung wollen wir uns mit unseren Artiststatments beschäftigen. 
+In dieser Übung wollen wir uns mit unseren "Artiststatments" beschäftigen.Es ist eine schriftliche **Selbstdarstellung**, in der Kreative ihre künstlerische oder gestalterische Arbeit erklären und kontextualisieren. Es dient dazu, die eigene kreative Philosophie, Arbeitsweise und Motivation transparent zu machen und eine Verbindung zwischen der Arbeit und dem P**ublikum, potenziellen Arbeitgebern oder Auftraggebern** herzustellen. 
+In einem solchen Statement beschreiben Künstler|innen oder Mediengestalter|innen typischerweise ihre thematischen Schwerpunkte, die verwendeten Techniken und Medien, ihre gestalterischen Ansätze sowie die Intentionen hinter ihrer Arbeit. Dabei geht es nicht nur um eine **technische Beschreibung**, sondern auch um die **konzeptionellen und inhaltlichen Dimensionen** – was möchte ich mit meiner Arbeit ausdrücken, welche Fragen stelle ich, welche Reaktionen möchte ich hervorrufen? Ein gutes Statement ist prägnant, authentisch und vermittelt sowohl fachliche Kompetenz als auch die individuelle kreative Handschrift. Es wird häufig für Bewerbungen, Portfolios, Ausstellungen oder die eigene Website benötigt und sollte regelmäßig aktualisiert werden, um die eigene künstlerische oder gestalterische Entwicklung zu reflektieren.
 
-## Ablauf 
 ### 1. Themencluster bilden (einzel,30min)
 ### **Aufgabe:** Sammle spontan Gedanken zu deiner gestalterischen Arbeit. Schreibe Stichworte, Begriffe oder kurze Sätze auf Karten oder in dein Notizbuch.
 **Impulsfragen:**

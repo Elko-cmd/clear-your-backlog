@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_write/exercise1.md",
+                "file": "02_write/exercise2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise1"
+              "title": "exercise2"
             }
           }
         ]
@@ -160,8 +160,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
       "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
@@ -170,7 +171,51 @@
   },
   "active": "81a0b646168745d6",
   "lastOpenFiles": [
+    "2025-11-29.md",
+    "01_organize/Obsidian_Template/01_Essentials/DE/Kurz Bio.md",
+    "02_write/exercise2.md",
+    "02_write/exercose2.md",
+    "01_organize/Obsidian_Template/01_Essentials/DE/Lebenslauf.md",
+    "01_organize/Obsidian_Template/01_Essentials/DE/Statment.md",
+    "01_organize/Obsidian_Template/02_Arbeiten/2025/Titel der Arbeit/Footage/README.md",
+    "01_organize/Obsidian_Template/02_Arbeiten/2025/Titel der Arbeit/Titel der Arbeit.md",
+    "README.md",
+    "01_organize/Obsidian_Template/README.md",
+    "04_techrider/README.md",
+    "02_write/exercise1.md",
+    "06_",
+    "05_KoFi",
+    "03_publish/CYBL.md",
+    "03_publish/Website/Mattis Default JS nachlade Website/PHPtest/index.php",
+    "03_publish/Website/Mattis Default JS nachlade Website/PHPtest",
+    "03_publish/Website/Mattis Default JS nachlade Website/testphp/index.php",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/9.md",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/9.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/8.txt",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/8.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/7.txt",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/7.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/6.txt",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/6.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/5.txt",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/5.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/4.txt",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/4.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/3.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/2.jpg",
+    "03_publish/Website/Mattis Default JS nachlade Website/src/1.jpg",
+    "03_publish/Mattis Default JS nachlade Website/src/9.md",
+    "03_publish/Mattis Default JS nachlade Website/src/9.jpg",
+    "Mattis Default JS nachlade Website/src/9.md",
+    "test/src/9.md",
+    "03_publish/Website/Baukästen.md",
+    "03_publish/README.md",
     "03_publish/HTML-Übung/README.md",
-    "01_organize/README.md"
+    "02_write/README.md",
+    "03_publish/Websitetest.md",
+    "03_publish/Baukästen/Baukästen.md",
+    "04_production/README.md",
+    "01_organize/Obsidian_Template/04_Bewerbungen/2025/Zippel_30_01_Deadline/Zippl.md",
+    "01_organize/Obsidian_Template/01_Essentials/EN/Statement.md"
   ]
 }
