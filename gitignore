@@ -1,2 +1,5 @@
 .DS_Store
 .json
+*.pdf
+.pdf
+.obsidian

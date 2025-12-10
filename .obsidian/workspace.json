@@ -11,14 +11,10 @@
             "id": "81a0b646168745d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_write/exercise2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "exercise2"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.500732421875
   },
   "right": {
     "id": "419e34620ff53025",
@@ -169,37 +165,45 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "81a0b646168745d6",
+  "active": "ef9e561e9fcdfd3e",
   "lastOpenFiles": [
-    "2025-11-29.md",
-    "01_organize/Obsidian_Template/01_Essentials/DE/Kurz Bio.md",
-    "02_write/exercise2.md",
-    "02_write/exercose2.md",
-    "01_organize/Obsidian_Template/01_Essentials/DE/Lebenslauf.md",
+    "01_organize/Obsidian_Template/05_Portfolio/elko_braas_cv_4QvfubYEsd.pdf",
+    "01_organize/Obsidian_Template/05_Portfolio/portfolio.md",
     "01_organize/Obsidian_Template/01_Essentials/DE/Statment.md",
-    "01_organize/Obsidian_Template/02_Arbeiten/2025/Titel der Arbeit/Footage/README.md",
+    "01_organize/Obsidian_Template/01_Essentials/DE/Lebenslauf.md",
+    "01_organize/Obsidian_Template/01_Essentials/DE/Kurz Bio.md",
     "01_organize/Obsidian_Template/02_Arbeiten/2025/Titel der Arbeit/Titel der Arbeit.md",
-    "README.md",
+    "02_write/exercise1_works.md",
+    "02_write/exercise3_cv.md",
+    "02_write/exercise2_statment.md",
+    "01_organize/Obsidian_Template/04_Bewerbungen/README.md",
     "01_organize/Obsidian_Template/README.md",
+    "01_organize/Obsidian_Template/01_Essentials/EN/CV.md",
+    "01_organize/Obsidian_Template/01_Essentials/EN/Shortbio.md",
+    "01_organize/Obsidian_Template/01_Essentials/EN/Statement.md",
+    "01_organize/Obsidian_Template/05_Portfolio/Portfolio_RHO Kollektiv_2025.pdf",
+    "01_organize/Obsidian_Template/05_Portfolio/CV_RHO_2025.pdf",
+    "01_organize/Obsidian_Template/CV_RHO_2025.pdf",
+    "01_organize/Obsidian_Template/Portfolio_RHO Kollektiv_2025.pdf",
+    "01_organize/Obsidian_Template/05_Portfolio/Angermann, Nimistud Complex.96.pdf",
+    "01_organize/Obsidian_Template/05_Portfolio",
+    "01_organize/05_Portfolio",
+    "01_organize/Obsidian_Template/04_Bewerbungen/2025/Zippel_30_01_Deadline/Zippl.md",
+    "04_techrider/exercise_techrider.md",
+    "2025-11-29.md",
+    "02_write/exercose2.md",
+    "01_organize/Obsidian_Template/02_Arbeiten/2025/Titel der Arbeit/Footage/README.md",
+    "README.md",
     "04_techrider/README.md",
-    "02_write/exercise1.md",
     "06_",
     "05_KoFi",
     "03_publish/CYBL.md",
-    "03_publish/Website/Mattis Default JS nachlade Website/PHPtest/index.php",
-    "03_publish/Website/Mattis Default JS nachlade Website/PHPtest",
-    "03_publish/Website/Mattis Default JS nachlade Website/testphp/index.php",
     "03_publish/Website/Mattis Default JS nachlade Website/src/9.md",
     "03_publish/Website/Mattis Default JS nachlade Website/src/9.jpg",
-    "03_publish/Website/Mattis Default JS nachlade Website/src/8.txt",
     "03_publish/Website/Mattis Default JS nachlade Website/src/8.jpg",
-    "03_publish/Website/Mattis Default JS nachlade Website/src/7.txt",
     "03_publish/Website/Mattis Default JS nachlade Website/src/7.jpg",
-    "03_publish/Website/Mattis Default JS nachlade Website/src/6.txt",
     "03_publish/Website/Mattis Default JS nachlade Website/src/6.jpg",
-    "03_publish/Website/Mattis Default JS nachlade Website/src/5.txt",
     "03_publish/Website/Mattis Default JS nachlade Website/src/5.jpg",
-    "03_publish/Website/Mattis Default JS nachlade Website/src/4.txt",
     "03_publish/Website/Mattis Default JS nachlade Website/src/4.jpg",
     "03_publish/Website/Mattis Default JS nachlade Website/src/3.jpg",
     "03_publish/Website/Mattis Default JS nachlade Website/src/2.jpg",
@@ -207,15 +211,6 @@
     "03_publish/Mattis Default JS nachlade Website/src/9.md",
     "03_publish/Mattis Default JS nachlade Website/src/9.jpg",
     "Mattis Default JS nachlade Website/src/9.md",
-    "test/src/9.md",
-    "03_publish/Website/Baukästen.md",
-    "03_publish/README.md",
-    "03_publish/HTML-Übung/README.md",
-    "02_write/README.md",
-    "03_publish/Websitetest.md",
-    "03_publish/Baukästen/Baukästen.md",
-    "04_production/README.md",
-    "01_organize/Obsidian_Template/04_Bewerbungen/2025/Zippel_30_01_Deadline/Zippl.md",
-    "01_organize/Obsidian_Template/01_Essentials/EN/Statement.md"
+    "test/src/9.md"
   ]
 }

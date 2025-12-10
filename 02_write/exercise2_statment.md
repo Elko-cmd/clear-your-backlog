@@ -1,8 +1,8 @@
-# Seminar Schreibübung: Artiststatment
-In dieser Übung wollen wir uns mit unseren "Artiststatments" beschäftigen.Es ist eine schriftliche **Selbstdarstellung**, in der Kreative ihre künstlerische oder gestalterische Arbeit erklären und kontextualisieren. Es dient dazu, die eigene kreative Philosophie, Arbeitsweise und Motivation transparent zu machen und eine Verbindung zwischen der Arbeit und dem P**ublikum, potenziellen Arbeitgebern oder Auftraggebern** herzustellen. 
+# Seminar Schreibübung: Missonstatment
+In dieser Übung wollen wir uns mit unseren "Missonstatments" beschäftigen.Es ist eine schriftliche **Selbstdarstellung**, in der Kreative ihre künstlerische oder gestalterische Arbeit erklären und kontextualisieren. Es dient dazu, die eigene kreative Philosophie, Arbeitsweise und Motivation transparent zu machen und eine Verbindung zwischen der Arbeit und dem P**ublikum, potenziellen Arbeitgebern oder Auftraggebern** herzustellen. 
 In einem solchen Statement beschreiben Künstler|innen oder Mediengestalter|innen typischerweise ihre thematischen Schwerpunkte, die verwendeten Techniken und Medien, ihre gestalterischen Ansätze sowie die Intentionen hinter ihrer Arbeit. Dabei geht es nicht nur um eine **technische Beschreibung**, sondern auch um die **konzeptionellen und inhaltlichen Dimensionen** – was möchte ich mit meiner Arbeit ausdrücken, welche Fragen stelle ich, welche Reaktionen möchte ich hervorrufen? Ein gutes Statement ist prägnant, authentisch und vermittelt sowohl fachliche Kompetenz als auch die individuelle kreative Handschrift. Es wird häufig für Bewerbungen, Portfolios, Ausstellungen oder die eigene Website benötigt und sollte regelmäßig aktualisiert werden, um die eigene künstlerische oder gestalterische Entwicklung zu reflektieren.
 
-### 1. Themencluster bilden (einzel,30min)
+### 1. Themencluster bilden (einzel,ca. 30min)
 ### **Aufgabe:** Sammle spontan Gedanken zu deiner gestalterischen Arbeit. Schreibe Stichworte, Begriffe oder kurze Sätze auf Karten oder in dein Notizbuch.
 **Impulsfragen:**
 
@@ -17,7 +17,7 @@ In einem solchen Statement beschreiben Künstler|innen oder Mediengestalter|inne
 - Was interessiert mich an der Schnittstelle von Inhalt und Form?
 - Welche kulturellen, gesellschaftlichen oder technologischen Entwicklungen beeinflussen meine Arbeit?
 
-  ## 2. Sortieren (einzeln, 15 min)
+  ## 2. Sortieren (einzeln,ca. 15 min)
 ### Aufgabe: Ordne deine gesammelten Stichworte in thematische Cluster. Welche Begriffe gehören zusammen? Welche Themen kristallisieren sich heraus?
 
 - Medien & Formate (Print, Screen, Motion, Installation...)
@@ -36,10 +36,11 @@ In einem solchen Statement beschreiben Künstler|innen oder Mediengestalter|inne
 - Was fehlt noch?
 **- Welche 3-5 Kernthemen sind zentral für meine Arbeit?**
 - Wo positioniere ich mich zwischen Kunst, Design und angewandter Gestaltung?
+  
 ## 3. Vorstellen (Gruppe/einzel)
-Einzelgespräche:
+- Einzelgespräche:
 Führt Zweier-Gespräche, in denen ihr euch gegenseitig eure Cluster zeigt und Fragen stellt.
-Plenum:
+- Plenum:
 Freiwillige stellen ihre Cluster vor, die Gruppe gibt Impulse.
 ## 4. Text verfassen (einzel)
 
@@ -64,4 +65,4 @@ Freiwillige stellen ihre Cluster vor, die Gruppe gibt Impulse.
 - An konkreten Kontexten anpassen (Portfolio, Bewerbung, Ausstellung, Website...)
 
 
-Hinweis: Ein Artiststatement ist nie "fertig" – es entwickelt sich mit deiner Praxis weiter. Es kann sinnvoll sein, verschiedene Versionen zu haben: eine für künstlerische Kontexte, eine für angewandte Projekte, eine für das Portfolio.
+Hinweis: Ein Missonstatement ist nie "fertig" – es entwickelt sich mit deiner Praxis weiter. Es kann sinnvoll sein, verschiedene Versionen zu haben: eine für künstlerische Kontexte, eine für angewandte Projekte, eine für das Portfolio.
