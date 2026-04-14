@@ -1,13 +1,9 @@
 # Seminar-Uebung: Bewerbungen & Foerderung
 
 > **Seminar-Navigation**
-> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](exercise1_works.md) | [Statement](exercise2_statment.md) | [CV](exercise3_cv.md) | [Kommunikation](exercise4_professionelle_kommunikation.md) | [Dokumentation](../03_document/exercise4_dokumentation.md) | [Tech Rider](../04_techrider/exercise_techrider.md) | [Website](../03_publish/exercise_website.md) | [Portfolio](../05_Portfolio/portfolio.md) | **Bewerbung & Foerderung** | [Institutionen](../06_Institution/institution.md) | [Leseliste](leseliste.md)
+> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](exercise1_works.md) | [Statement](exercise2_statment.md) | [CV](exercise3_cv.md) | [Kommunikation](exercise4_professionelle_kommunikation.md) | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | [Portfolio](../07_Portfolio/portfolio.md) | **Bewerbung & Foerderung** | [Institutionen](../08_Institution/institution.md) | [Leseliste](leseliste.md)
 
 Kuenstlerische Karrieren werden massgeblich durch Stipendien, Projektfoerderungen, Residencies und Preise geformt. Diese Uebung gibt einen Ueberblick ueber die Foerderlandschaft und uebt das Schreiben von Projektbeschreibungen und Motivationstexten.
----
-![[exercis5_Foerderlandschaft_Info]]
----
-
 ## Bestandteile einer Bewerbung
 
 Die meisten Bewerbungen fordern eine Kombination aus:
@@ -129,3 +125,8 @@ Nutzt den Ordner `04_Bewerbungen/` in eurem Vault:
 - **Kein Bezug zur Ausschreibung** -- Erklaert, warum DIESES Stipendium / DIESE Residency
 - **Ueberdimensioniertes Budget** -- Realistisch kalkulieren, nicht die Maximalfoerderung als Ziel nehmen
 - **Portfolio nicht aktuell** -- Immer die neuesten und besten Arbeiten zeigen
+
+
+---
+![[exercis5_Foerderlandschaft_Info]]
+---

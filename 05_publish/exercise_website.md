@@ -1,7 +1,7 @@
 # Seminar-Uebung: Kuenstler*innen-Website erstellen
 
 > **Seminar-Navigation**
-> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](../02_write/exercise1_works.md) | [Statement](../02_write/exercise2_statment.md) | [CV](../02_write/exercise3_cv.md) | [Kommunikation](../02_write/exercise4_professionelle_kommunikation.md) | [Dokumentation](../03_document/exercise4_dokumentation.md) | [Tech Rider](../04_techrider/exercise_techrider.md) | **Website** | [Portfolio](../05_Portfolio/portfolio.md) | [Bewerbung & Foerderung](../02_write/exercise5_bewerbungen_foerderung.md) | [Institutionen](../06_Institution/institution.md) | [Leseliste](../02_write/leseliste.md)
+> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](../02_write/exercise1_works.md) | [Statement](../02_write/exercise2_statment.md) | [CV](../02_write/exercise3_cv.md) | [Kommunikation](../02_write/exercise4_professionelle_kommunikation.md) | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | **Website** | [Portfolio](../07_Portfolio/portfolio.md) | [Bewerbung & Foerderung](../02_write/exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](../02_write/leseliste.md)
 
 Eine eigene Website ist das wichtigste Werkzeug der kuenstlerischen Selbstpraesentierung. Sie ist eure digitale Visitenkarte, euer Portfolio, euer Archiv -- und oft der erste Eindruck, den Kurator*innen, Galerist*innen oder Juror*innen von eurer Arbeit bekommen. Diese Uebung fuehrt durch Planung, Struktur und Umsetzung einer eigenen Kuenstler*innen-Website.
 

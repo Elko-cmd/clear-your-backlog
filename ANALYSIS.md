@@ -17,11 +17,11 @@ Stand: 2. April 2026 -- Frische Analyse des gesamten Vaults.
 | Professionelle Kommunikation | 02_write | exercise4 | 5 E-Mail-Vorlagen (DE+EN) | Solide |
 | Bewerbungen & Foerderung | 02_write | exercise5 | Budgetbeispiel, Datenbanken | Sehr umfangreich |
 | Leseliste | 02_write | -- | -- | Vorhanden |
-| Dokumentation | 03_document | exercise4 | Benennungskonvention | Solide |
-| Website | 03_publish | exercise_website | -- | Solide |
-| Tech Rider | 04_techrider | exercise + template | Ausfuellbares Template | Solide |
-| Portfolio | 05_Portfolio | portfolio.md | 6 Beispiel-PDFs | Solide |
-| Institutionen | 06_Institution | institution.md | 2 PDF-Readings | Solide |
+| Dokumentation | 04_document | exercise4 | Benennungskonvention | Solide |
+| Website | 05_publish | exercise_website | -- | Solide |
+| Tech Rider | 06_techrider | exercise + template | Ausfuellbares Template | Solide |
+| Portfolio | 07_Portfolio | portfolio.md | 6 Beispiel-PDFs | Solide |
+| Institutionen | 08_Institution | institution.md | 2 PDF-Readings | Solide |
 | Lehrkonzept | Root | TEACHING_CONCEPT.md | 7-Sitzungsplan mit Bewertung | Solide |
 
 **10 Uebungen, 7 Ordner, ~30 Markdown-Dateien, 8 PDFs.**

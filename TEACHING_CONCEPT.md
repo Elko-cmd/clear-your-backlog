@@ -35,11 +35,11 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 |--------|---------|-----------|
 | `01_organize/` | Obsidian vault setup and template | README.md, Obsidian_Template/ |
 | `02_write/` | All writing exercises and resources | exercise1-5, leseliste.md |
-| `03_document/` | Work documentation guide | exercise4_dokumentation.md |
-| `03_publish/` | Website building and web tools | exercise_website.md, Baukästen.md |
-| `04_techrider/` | Tech rider guide and template | exercise_techrider.md, template_techrider.md |
-| `05_Portfolio/` | Portfolio planning guide + example PDFs | portfolio.md |
-| `06_Institution/` | Institutional context, readings, future planning | institution.md |
+| `04_document/` | Work documentation guide | exercise4_dokumentation.md |
+| `05_publish/` | Website building and web tools | exercise_website.md, Baukästen.md |
+| `06_techrider/` | Tech rider guide and template | exercise_techrider.md, template_techrider.md |
+| `07_Portfolio/` | Portfolio planning guide + example PDFs | portfolio.md |
+| `08_Institution/` | Institutional context, readings, future planning | institution.md |
 
 ---
 
@@ -112,7 +112,7 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 - Complete CV draft in Obsidian vault (both languages)
 - Peer review: Exchange statement with one classmate for written feedback
 
-**Materials:** `02_write/exercise2_statment.md`, `02_write/exercise3_cv.md`, `05_Portfolio/` (example PDFs)
+**Materials:** `02_write/exercise2_statment.md`, `02_write/exercise3_cv.md`, `07_Portfolio/` (example PDFs)
 
 ---
 
@@ -122,21 +122,21 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 | Time | Activity | Format |
 |------|----------|--------|
 | 0:00-0:15 | Check-in: Read 1-2 revised statements. Brief feedback | Plenary |
-| 0:15-0:55 | Documentation Workshop (`03_document/exercise4_dokumentation.md`): Input on photographing/filming work -- lighting, backgrounds, perspectives, file formats. Discuss differences between documenting installations, video, digital works, and design projects | Lecture + Demo |
+| 0:15-0:55 | Documentation Workshop (`04_document/exercise4_dokumentation.md`): Input on photographing/filming work -- lighting, backgrounds, perspectives, file formats. Discuss differences between documenting installations, video, digital works, and design projects | Lecture + Demo |
 | 0:55-1:15 | Hands-on: Students photograph/document one work (using phone or camera). Apply naming conventions and file structure | Individual |
 | 1:15-1:25 | Break | |
 | 1:25-1:45 | Peer review of documentation: Does the image convey the work? Colors, proportions, context? | Pairs |
-| 1:45-2:15 | Input: Tech Rider (`04_techrider/exercise_techrider.md`) -- what it is, when you need one, walkthrough of the template. Analyze example (rhokollektiv) | Lecture + Discussion |
-| 2:15-2:50 | Exercise: Write a tech rider for one of your works using the template (`04_techrider/template_techrider.md`). Sketch a rough floor plan | Individual |
+| 1:45-2:15 | Input: Tech Rider (`06_techrider/exercise_techrider.md`) -- what it is, when you need one, walkthrough of the template. Analyze example (rhokollektiv) | Lecture + Discussion |
+| 2:15-2:50 | Exercise: Write a tech rider for one of your works using the template (`06_techrider/template_techrider.md`). Sketch a rough floor plan | Individual |
 | 2:50-3:00 | Peer review of tech riders + homework briefing | Pairs + Plenary |
 
 **Homework (due Session 5):**
 - Complete documentation for all works in vault (photos in Footage folders)
 - Finalize tech rider
-- Read website exercise (`03_publish/exercise_website.md`) as preparation
+- Read website exercise (`05_publish/exercise_website.md`) as preparation
 - Research 3 artist/designer websites you find effective
 
-**Materials:** `03_document/exercise4_dokumentation.md`, `04_techrider/exercise_techrider.md`, `04_techrider/template_techrider.md`
+**Materials:** `04_document/exercise4_dokumentation.md`, `06_techrider/exercise_techrider.md`, `06_techrider/template_techrider.md`
 
 ---
 
@@ -146,8 +146,8 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 | Time | Activity | Format |
 |------|----------|--------|
 | 0:00-0:15 | Check-in: Show 2-3 documentation results. Quick feedback | Plenary |
-| 0:15-0:45 | Input: Website builders overview (`03_publish/Website/Baukästen.md`). Live walkthrough of platforms (Cargo, Carrd, Squarespace, Neocities, newmediakassel.de). Discuss: Which fits your needs and budget? | Lecture + Demo |
-| 0:45-1:05 | Website exercise Phase 1+2 (`03_publish/exercise_website.md`): Analyze example artist websites. Plan sitemap on paper | Individual + Group |
+| 0:15-0:45 | Input: Website builders overview (`05_publish/Website/Baukästen.md`). Live walkthrough of platforms (Cargo, Carrd, Squarespace, Neocities, newmediakassel.de). Discuss: Which fits your needs and budget? | Lecture + Demo |
+| 0:45-1:05 | Website exercise Phase 1+2 (`05_publish/exercise_website.md`): Analyze example artist websites. Plan sitemap on paper | Individual + Group |
 | 1:05-1:15 | Break | |
 | 1:15-2:00 | Workshop: Pick a platform, set up account, build basic structure. Upload work documentation, statement, CV from vault. Content first, design second | Hands-on (individual support) |
 | 2:00-2:30 | Continue building. For advanced students: introduce HTML/CSS option, hosting, domains | Hands-on |
@@ -160,7 +160,7 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 - Start portfolio PDF draft (minimum 8 pages: cover, about, 5 works, closing)
 - Follow naming convention: Lastname_Firstname_Portfolio_2025.pdf
 
-**Materials:** `03_publish/exercise_website.md`, `03_publish/Website/Baukästen.md`
+**Materials:** `05_publish/exercise_website.md`, `05_publish/Website/Baukästen.md`
 
 ---
 
@@ -170,7 +170,7 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 | Time | Activity | Format |
 |------|----------|--------|
 | 0:00-0:15 | Check-in: Quick website tour -- each student shows their site in 1 min | Plenary |
-| 0:15-0:45 | Input: Portfolio conception and strategy (`05_Portfolio/portfolio.md`). Target audience, content selection, design principles. Analyze example portfolios (PDFs in 05_Portfolio/) | Lecture + Small groups |
+| 0:15-0:45 | Input: Portfolio conception and strategy (`07_Portfolio/portfolio.md`). Target audience, content selection, design principles. Analyze example portfolios (PDFs in 07_Portfolio/) | Lecture + Small groups |
 | 0:45-1:05 | Workshop: Plan portfolio layout -- paper mockup, decide on works, order, design concept | Individual |
 | 1:05-1:15 | Break | |
 | 1:15-1:35 | Input: Professional communication (`02_write/exercise4_professionelle_kommunikation.md`) -- email templates for gallery inquiries, open call applications, follow-ups. Show German and English examples | Lecture |
@@ -182,10 +182,10 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 **Homework (due Session 7):**
 - Finalize portfolio PDF based on peer feedback
 - Finalize website
-- Read texts from 06_Institution/ (PDFs: "Consensus Aesthetics", "Institutions")
+- Read texts from 08_Institution/ (PDFs: "Consensus Aesthetics", "Institutions")
 - Prepare a 5-minute presentation of your complete "professional toolkit"
 
-**Materials:** `05_Portfolio/portfolio.md`, `02_write/exercise4_professionelle_kommunikation.md`, `02_write/exercise5_bewerbungen_foerderung.md`, example PDFs in `05_Portfolio/`
+**Materials:** `07_Portfolio/portfolio.md`, `02_write/exercise4_professionelle_kommunikation.md`, `02_write/exercise5_bewerbungen_foerderung.md`, example PDFs in `07_Portfolio/`
 
 ---
 
@@ -195,15 +195,15 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 | Time | Activity | Format |
 |------|----------|--------|
 | 0:00-0:15 | Check-in | Plenary |
-| 0:15-0:50 | Discussion: Readings from `06_Institution/`. What are institutions in contemporary art and design? How do they shape what gets shown? What is "consensus aesthetics"? Use the discussion questions from institution.md | Plenary discussion |
-| 0:50-1:20 | Exercise 1 -- Institutional Mapping (`06_Institution/institution.md`): Draw a personal "institution map" -- which institutions are you connected to, which do you want to reach? Color-coded by experience (green/red/yellow). Discuss in pairs | Individual + Pairs |
+| 0:15-0:50 | Discussion: Readings from `08_Institution/`. What are institutions in contemporary art and design? How do they shape what gets shown? What is "consensus aesthetics"? Use the discussion questions from institution.md | Plenary discussion |
+| 0:50-1:20 | Exercise 1 -- Institutional Mapping (`08_Institution/institution.md`): Draw a personal "institution map" -- which institutions are you connected to, which do you want to reach? Color-coded by experience (green/red/yellow). Discuss in pairs | Individual + Pairs |
 | 1:20-1:30 | Break | |
 | 1:30-2:10 | Final presentations: Each student presents their professional toolkit (5 min presentation + 3 min feedback). Show: Obsidian vault, statement, CV, website, portfolio PDF | Individual presentations |
-| 2:10-2:40 | Exercise 2 -- Zukunftsentwurf (`06_Institution/institution.md`): Personal future visioning exercise. Wish list (10 min), pick 3 stars (5 min), define one concrete next step (10 min), exchange in pairs (5 min) | Individual + Pairs |
+| 2:10-2:40 | Exercise 2 -- Zukunftsentwurf (`08_Institution/institution.md`): Personal future visioning exercise. Wish list (10 min), pick 3 stars (5 min), define one concrete next step (10 min), exchange in pairs (5 min) | Individual + Pairs |
 | 2:40-2:55 | Reflection: What did you learn? What was most useful? What will you actually maintain? What's still on your backlog? | Plenary discussion |
 | 2:55-3:00 | Closing: Resources for continued learning (`02_write/leseliste.md`), farewell | Plenary |
 
-**Materials:** `06_Institution/institution.md` (includes both Institutional Mapping and Zukunftsentwurf exercises), `02_write/leseliste.md`
+**Materials:** `08_Institution/institution.md` (includes both Institutional Mapping and Zukunftsentwurf exercises), `02_write/leseliste.md`
 
 ---
 
@@ -227,11 +227,11 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 |---------|-------|--------------|----------------------|
 | 1 | Kickoff & Organization | `01_organize/` | Obsidian installer, projector |
 | 2 | Writing About Work | `02_write/exercise1` | -- |
-| 3 | Statement & CV | `02_write/exercise2 + exercise3`, `05_Portfolio/` (example PDFs) | Index cards, pens, printed example CVs |
-| 4 | Documentation & Tech Rider | `03_document/`, `04_techrider/` | Camera/phones, works to photograph if possible |
-| 5 | Going Online | `03_publish/` | Laptops required, Wi-Fi |
-| 6 | Portfolio, Applications & Funding | `05_Portfolio/`, `02_write/exercise4 + exercise5` | List of current open calls, paper for portfolio mockups |
-| 7 | Institutions, Presentations & Future | `06_Institution/`, `02_write/leseliste.md` | Projector, printed readings (assigned 2 weeks prior) |
+| 3 | Statement & CV | `02_write/exercise2 + exercise3`, `07_Portfolio/` (example PDFs) | Index cards, pens, printed example CVs |
+| 4 | Documentation & Tech Rider | `04_document/`, `06_techrider/` | Camera/phones, works to photograph if possible |
+| 5 | Going Online | `05_publish/` | Laptops required, Wi-Fi |
+| 6 | Portfolio, Applications & Funding | `07_Portfolio/`, `02_write/exercise4 + exercise5` | List of current open calls, paper for portfolio mockups |
+| 7 | Institutions, Presentations & Future | `08_Institution/`, `02_write/leseliste.md` | Projector, printed readings (assigned 2 weeks prior) |
 
 ---
 
@@ -252,18 +252,18 @@ All seminar materials are organized in the repo and cross-linked via a consisten
 
 | File | Content |
 |------|---------|
-| `03_document/exercise4_dokumentation.md` | Photography, video, and screenshot guide for documenting work. File formats, naming conventions, tools |
-| `04_techrider/exercise_techrider.md` | Tech rider guide with full structure (space, equipment, setup, transport, contact) |
-| `04_techrider/template_techrider.md` | Fillable tech rider template |
-| `03_publish/exercise_website.md` | Website building guide: anatomy of an artist website, technical options (builders, static, dynamic), domain/hosting, dos/don'ts, tools |
-| `03_publish/Website/Baukästen.md` | Overview of website builders (Cargo, Wix, Squarespace, Webflow, Carrd, Framer, Neocities, newmediakassel.de) |
-| `05_Portfolio/portfolio.md` | Portfolio planning guide: conception, design, structure, text, PDF specs |
+| `04_document/exercise4_dokumentation.md` | Photography, video, and screenshot guide for documenting work. File formats, naming conventions, tools |
+| `06_techrider/exercise_techrider.md` | Tech rider guide with full structure (space, equipment, setup, transport, contact) |
+| `06_techrider/template_techrider.md` | Fillable tech rider template |
+| `05_publish/exercise_website.md` | Website building guide: anatomy of an artist website, technical options (builders, static, dynamic), domain/hosting, dos/don'ts, tools |
+| `05_publish/Website/Baukästen.md` | Overview of website builders (Cargo, Wix, Squarespace, Webflow, Carrd, Framer, Neocities, newmediakassel.de) |
+| `07_Portfolio/portfolio.md` | Portfolio planning guide: conception, design, structure, text, PDF specs |
 
 ### Context & Reflection
 
 | File | Content |
 |------|---------|
-| `06_Institution/institution.md` | Institutional context in contemporary art/design. Includes readings discussion questions, institution types overview, Institutional Mapping exercise, and Zukunftsentwurf (future visioning) exercise |
+| `08_Institution/institution.md` | Institutional context in contemporary art/design. Includes readings discussion questions, institution types overview, Institutional Mapping exercise, and Zukunftsentwurf (future visioning) exercise |
 
 ### Funding & Festivals (in `exercise5_bewerbungen_foerderung.md`)
 
@@ -294,12 +294,12 @@ Based on the gaps identified in ANALYSIS.md, the following have been addressed:
 
 | Recommendation | Status |
 |----------------|--------|
-| Expand 04_techrider with template and exercise | Done -- full exercise + template with sections for space, equipment, software, transport, floor plan |
-| Add work documentation/photography guide | Done -- `03_document/exercise4_dokumentation.md` covers photo, video, screenshots, file formats, tools |
+| Expand 06_techrider with template and exercise | Done -- full exercise + template with sections for space, equipment, software, transport, floor plan |
+| Add work documentation/photography guide | Done -- `04_document/exercise4_dokumentation.md` covers photo, video, screenshots, file formats, tools |
 | Add professional email templates | Done -- `02_write/exercise4_professionelle_kommunikation.md` with 5 templates (DE + EN) |
-| Complete 06_Institution/institution.md | Done -- discussion questions, institution types, Institutional Mapping exercise, Zukunftsentwurf exercise |
+| Complete 08_Institution/institution.md | Done -- discussion questions, institution types, Institutional Mapping exercise, Zukunftsentwurf exercise |
 | Add a reading list | Done -- `02_write/leseliste.md` |
-| Add website building exercise | Done -- `03_publish/exercise_website.md` with full guide |
+| Add website building exercise | Done -- `05_publish/exercise_website.md` with full guide |
 | Add funding/application guide | Done -- `02_write/exercise5_bewerbungen_foerderung.md` with comprehensive funding landscape |
 | Fill English templates | Open -- EN/ folder in Obsidian template still needs example content |
 | Add content to 05_KoFi or remove it | N/A -- folder does not exist in current repo |
