@@ -1,10 +1,9 @@
 .DS_Store
-.json
+*.json
 *.pdf
-.pdf
-.obsidian
+.obsidian/
+.claude/
 leseliste.md
 TEACHING_CONCEPT.md
 LICENSE
-.claude
 ANALYSIS.md
