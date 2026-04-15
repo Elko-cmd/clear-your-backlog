@@ -1,7 +1,7 @@
 # Plan fuer die Erstellung eines Portfolios
 
 > **Seminar-Navigation**
-> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](../02_write/exercise1_works.md) | [Statement](../02_write/exercise2_statment.md) | [CV](../02_write/exercise3_cv.md) | [Kommunikation](../02_write/exercise4_professionelle_kommunikation.md) | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | **Portfolio** | [Bewerbung & Foerderung](../02_write/exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](../02_write/leseliste.md)
+> [Vault organisieren](Session%201%20-%20Übung.md) | [Werkbeschreibung](../02_write/exercise1_works.md) | [Statement](../02_write/exercise2_statment.md) | [CV](../02_write/exercise3_cv.md) | [Kommunikation](../02_write/exercise4_professionelle_kommunikation.md) | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | **Portfolio** | [Bewerbung & Foerderung](../02_write/exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](../02_write/leseliste.md)
 ## 1. Konzeption & Strategie
 ### Zielgruppenanalyse
 

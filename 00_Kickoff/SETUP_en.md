@@ -1,4 +1,8 @@
 # Clear your backlog -- Course Overview
+___
+> **Seminar-Navigation**
+> **Kickoff** | [Organize Vault](../01_organize/Session%201%20-%20Übung.md) | [Work description](../02_Lebenslauf%20und%20Statement/exercise1_works.md) | [Statement](../02_Lebenslauf%20und%20Statement/exercise2_statment.md) | [CV](../02_Lebenslauf%20und%20Statement/exercise3_cv.md) | [Communication](../03_Bewerbung%20und%20Förderung/exercise4_professionelle_kommunikation.md) | [Documentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | [Portfolio](../07_Portfolio/portfolio.md) | [Applications & Funding](../03_Bewerbung%20und%20Förderung/exercise5_bewerbungen_foerderung.md) | [Institutions](../08_Institution/institution.md)
+__
 
 Welcome to the seminar **Clear your backlog** (Kunsthochschule Kassel, New Media, Summer Semester 2026).
 

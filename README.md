@@ -1,6 +1,6 @@
 # Clear your backlog
 
-Das ist das Repository zum Seminar "Clear your backlog" im SoSe25 an der Kunsthochschule Kassel im Bereich der Neuen Medien.
+Das ist das Repository zum Seminar "Clear your backlog" im SoSe26 an der Kunsthochschule Kassel im Bereich der Neuen Medien.
 
 ---
 
@@ -10,7 +10,7 @@ Der Kurs fuehrt durch alle Bausteine einer professionellen kuenstlerischen Praxi
 
 ### Organisieren
 
-- [Vault organisieren](01_organize/README.md) -- Obsidian Vault als Arbeitsstruktur einrichten
+- [Vault organisieren](Session%201%20-%20Übung.md) -- Obsidian Vault als Arbeitsstruktur einrichten
 
 ### Schreiben
 
@@ -31,7 +31,3 @@ Der Kurs fuehrt durch alle Bausteine einer professionellen kuenstlerischen Praxi
 - [Bewerbung & Foerderung](02_write/exercise5_bewerbungen_foerderung.md) -- Stipendien, Foerderungen, Projektbeschreibungen
 - [Institutionen](08_Institution/institution.md) -- Kunstbetrieb verstehen und navigieren
 
-### Ressourcen
-
-- [Leseliste](02_write/leseliste.md) -- Literatur und Referenzen zur professionellen Praxis
-- [Website-Baukaesten](05_publish/Website/Baukästen.md) -- Uebersicht Webtools fuer Kuenstler*innen

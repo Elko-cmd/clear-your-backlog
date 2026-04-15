@@ -9,7 +9,7 @@ Die Übungen in diesem Ordner verfolgen folgende Ziele:
 - Entwicklung effektiver Arbeitsmethoden
 - Strukturierung des künstlerischen/gestallterischem Schaffensprozesses
 - Systematische Dokumentation von Ideen und Entwicklungen
-- Aufbau eines nachhaltigen Workfolws
+- Aufbau eines nachhaltigen Workflows
   
 1. **Vorbereitung**
    - Materialien sammeln
@@ -30,4 +30,4 @@ Die Übungen in diesem Ordner verfolgen folgende Ziele:
 - Beginnt mit einfachen, überschaubaren Systemen
 - Passt die Methoden an eure individuellen Bedürfnisse an
 - Bleibt flexibel und offen für Anpassungen
-- Nutzt Tools, die zu eurem Arbeitsfluss passen
+- Nutzt Tools, die zu eurem Workflow passen

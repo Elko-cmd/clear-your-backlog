@@ -1,4 +1,4 @@
-> [Organize Vault](../01_Organize/README.md) • [Work Description](../02_Lebenslauf%20und%20Statement/exercise1_works.md) • [Statement](../02_Lebenslauf%20und%20Statement/exercise2_statment.md) • [CV](../02_Lebenslauf%20und%20Statement/exercise3_cv.md) • [Communication](../02_Lebenslauf%20und%20Statement/exercise4_professionelle_kommunikation.md) • [Documentation](../04_document/exercise4_dokumentation.md) • [Tech Rider](../06_techrider/exercise_techrider.md) • [Website](../05_publish/exercise_website.md) • [Portfolio](../07_Portfolio/portfolio.md) • [Applications & Funding](../02_Lebenslauf%20und%20Statement/exercise5_bewerbungen_foerderung.md) • [Institutions](../08_Institution/institution.md) • [Reading List](../02_Lebenslauf%20und%20Statement/leseliste.md)
+> [Organize Vault](Session%201%20-%20Übung.md) • [Work Description](../02_Lebenslauf%20und%20Statement/exercise1_works.md) • [Statement](../02_Lebenslauf%20und%20Statement/exercise2_statment.md) • [CV](../02_Lebenslauf%20und%20Statement/exercise3_cv.md) • [Communication](../02_Lebenslauf%20und%20Statement/exercise4_professionelle_kommunikation.md) • [Documentation](../04_document/exercise4_dokumentation.md) • [Tech Rider](../06_techrider/exercise_techrider.md) • [Website](../05_publish/exercise_website.md) • [Portfolio](../07_Portfolio/portfolio.md) • [Applications & Funding](../02_Lebenslauf%20und%20Statement/exercise5_bewerbungen_foerderung.md) • [Institutions](../08_Institution/institution.md) • [Reading List](../02_Lebenslauf%20und%20Statement/leseliste.md)
 
 # Session 1 -- Obsidian for Artistic Practice
 
@@ -318,4 +318,4 @@ Your vault is local. Three options if you want to back it up / use it on multipl
 
 This document was created for the seminar "Clear your backlog" at the Kunsthochschule Kassel, New Media. Contents synthesized from Obsidian documentation, community articles (stephango.com, dev.to, obsidian.rocks, thesiswhisperer.com, markdowntools.io, facedragons.com) and seminar practice.
 
-> Back to [Overview 01_Organize](./README.md) • Continue to [Session 2: Work Description](../02_Lebenslauf%20und%20Statement/exercise1_works.md)
+> Back to [Overview 01_Organize](Session%201%20-%20Übung.md) • Continue to [Session 2: Work Description](../02_Lebenslauf%20und%20Statement/exercise1_works.md)

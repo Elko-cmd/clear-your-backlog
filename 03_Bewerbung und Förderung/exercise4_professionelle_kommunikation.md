@@ -1,7 +1,7 @@
 # Seminar-Uebung: Professionelle Kommunikation
 
 > **Seminar-Navigation**
-> [Vault organisieren](../01_organize/README.md) | [Werkbeschreibung](exercise1_works.md) | [Statement](exercise2_statment.md) | [CV](exercise3_cv.md) | **Kommunikation** | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | [Portfolio](../07_Portfolio/portfolio.md) | [Bewerbung & Foerderung](exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](leseliste.md)
+> [Vault organisieren](Session%201%20-%20Übung.md) | [Werkbeschreibung](exercise1_works.md) | [Statement](exercise2_statment.md) | [CV](exercise3_cv.md) | **Kommunikation** | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | [Portfolio](../07_Portfolio/portfolio.md) | [Bewerbung & Foerderung](exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](leseliste.md)
 
 Ob Galeriebewerbung, Rueckfrage zu einem Open Call oder Anfrage an eine Kuratorin -- professionelle E-Mails und Anschreiben sind ein wesentlicher Teil der kuenstlerischen Praxis. Diese Uebung gibt euch Vorlagen und Uebungen fuer die haeufigsten Kommunikationssituationen.
 
