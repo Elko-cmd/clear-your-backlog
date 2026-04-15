@@ -31,4 +31,3 @@ Die Übungen in diesem Ordner verfolgen folgende Ziele:
 - Passt die Methoden an eure individuellen Bedürfnisse an
 - Bleibt flexibel und offen für Anpassungen
 - Nutzt Tools, die zu eurem Arbeitsfluss passen
-- test
