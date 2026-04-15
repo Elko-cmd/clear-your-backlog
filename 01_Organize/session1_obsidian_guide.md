@@ -1,5 +1,8 @@
 > [Vault organisieren](Session%201%20-%20Übung.md) • [Werkbeschreibung](../02_Lebenslauf%20und%20Statement/exercise1_works.md) • [Statement](../02_Lebenslauf%20und%20Statement/exercise2_statment.md) • [CV](../02_Lebenslauf%20und%20Statement/exercise3_cv.md) • [Kommunikation](../02_Lebenslauf%20und%20Statement/exercise4_professionelle_kommunikation.md) • [Dokumentation](../04_document/exercise4_dokumentation.md) • [Tech Rider](../06_techrider/exercise_techrider.md) • [Website](../05_publish/exercise_website.md) • [Portfolio](../07_Portfolio/portfolio.md) • [Bewerbung & Förderung](../02_Lebenslauf%20und%20Statement/exercise5_bewerbungen_foerderung.md) • [Institutionen](../08_Institution/institution.md) • [Leseliste](../02_Lebenslauf%20und%20Statement/leseliste.md)
 
+
+https://github.com/Elko-cmd/clear-your-backlog
+https://obsidian.md/
 # Session 1 -- Obsidian für die künstlerische Praxis
 
 Begleitmaterial zur ersten Sitzung des Seminars. Diese Datei versammelt Einstiegs-Input, Übungen und weiterführende Tipps für die Arbeit mit Obsidian als persönliches Wissens- und Archivsystem für Künstler:innen und Designer:innen.
@@ -21,19 +24,18 @@ Obsidian ist ein **lokales, dateibasiertes Notiz- und Wissenssystem**. Alle Noti
 
 ## 2. Grundbegriffe
 
-| Begriff | Bedeutung |
-|---------|-----------|
-| **Vault** | Der Wurzelordner deines Systems. Ein Ordner auf deiner Festplatte, den Obsidian als "Tresor" öffnet. Du kannst mehrere haben (z. B. Praxis + Lehre getrennt). |
-| **Note / Notiz** | Eine einzelne `.md`-Datei. Kann alles sein: Werkbeschreibung, Ideenfragment, Literaturnotiz, Timeline-Eintrag. |
-| **Wikilink** | Interner Link in der Form `[[Notizname]]`. Klick öffnet die Zielnotiz; existiert sie noch nicht, wird sie beim Klick neu angelegt. |
-| **Backlink** | Automatisch generierte Liste aller Notizen, die auf die aktuelle verlinken. In der rechten Seitenleiste sichtbar. |
-| **Tag** | Stichwort mit `#` am Anfang, z. B. `#video` oder `#in-arbeit`. Dient zur Querkategorisierung quer zu Ordnern. |
-| **Frontmatter** | YAML-Block am Anfang einer Notiz (zwischen `---`/`---`). Dort stehen strukturierte Metadaten: Titel, Jahr, Medium, Tags. |
-| **Graph View** | Visualisierung deines Vaults als Netzwerkgraph. Jede Notiz ein Punkt, jeder Link eine Linie. |
-| **Canvas** | Unendlich große Leinwand, auf der du Notizen und Bilder räumlich arrangieren kannst. Gut für Projektplanung, Ausstellungslayouts, Mindmaps. |
+| Begriff          | Bedeutung                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vault**        | Der Wurzelordner deines Systems. Ein Ordner auf deiner Festplatte, den Obsidian als "Tresor" öffnet. Du kannst mehrere haben (z. B. Praxis + Lehre getrennt). |
+| **Note / Notiz** | Eine einzelne `.md`-Datei. Kann alles sein: Werkbeschreibung, Ideenfragment, Literaturnotiz, Timeline-Eintrag.                                                |
+| **Wikilink**     | Interner Link in der Form `[[Notizname]]`. Klick öffnet die Zielnotiz; existiert sie noch nicht, wird sie beim Klick neu angelegt.                            |
+| **Backlink**     | Automatisch generierte Liste aller Notizen, die auf die aktuelle verlinken. In der rechten Seitenleiste sichtbar.                                             |
+| **Tag**          | Stichwort mit `#` am Anfang, z. B. `#video` oder `#in-arbeit`. Dient zur Querkategorisierung quer zu Ordnern.                                                 |
+| **Frontmatter**  | YAML-Block am Anfang einer Notiz (zwischen `---`/`---`). Dort stehen strukturierte Metadaten: Titel, Jahr, Medium, Tags.                                      |
+| **Graph View**   | Visualisierung deines Vaults als Netzwerkgraph. Jede Notiz ein Punkt, jeder Link eine Linie.                                                                  |
+| **Canvas**       | Unendlich große Leinwand, auf der du Notizen und Bilder räumlich arrangieren kannst. Gut für Projektplanung, Ausstellungslayouts, Mindmaps.                   |
 
 ---
-
 ## 3. Markdown-Basics (was du wirklich brauchst)
 
 Markdown ist einfache Textauszeichnung. Drei Zeichen reichen für 90 % des Alltags.
@@ -67,6 +69,13 @@ Markdown ist einfache Textauszeichnung. Drei Zeichen reichen für 90 % des Allta
 
 - [ ] offene Aufgabe
 - [x] erledigte Aufgabe
+Tabelle: 
+      
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ```
 
 ### Frontmatter-Beispiel
