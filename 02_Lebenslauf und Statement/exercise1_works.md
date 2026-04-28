@@ -3,7 +3,7 @@
 > **Seminar-Navigation**
 > [Vault organisieren](Session%201%20-%20Übung.md) | **Werkbeschreibung** | [Statement](exercise2_statment.md) | [CV](exercise3_cv.md) | [Kommunikation](exercise4_professionelle_kommunikation.md) | [Dokumentation](../04_document/exercise4_dokumentation.md) | [Tech Rider](../06_techrider/exercise_techrider.md) | [Website](../05_publish/exercise_website.md) | [Portfolio](../07_Portfolio/portfolio.md) | [Bewerbung & Foerderung](exercise5_bewerbungen_foerderung.md) | [Institutionen](../08_Institution/institution.md) | [Leseliste](leseliste.md)
 
-Für die nächste Folge des Seminars bringt jede teilnehmende Person bitte eine Arbeit mit. Wir werden eine Schreibübung durchführen, bei der ihr euch gegenseitig eine eurer Arbeiten vorstellt.
+Für die nächste Übung des Seminars bringt jede teilnehmende Person bitte eine Arbeit mit. Wir werden eine Schreibübung durchführen, bei der ihr euch gegenseitig eine eurer Arbeiten vorstellt.
 
 ## Ablauf
 

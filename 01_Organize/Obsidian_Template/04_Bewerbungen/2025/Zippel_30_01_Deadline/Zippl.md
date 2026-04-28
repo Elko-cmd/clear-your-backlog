@@ -5,7 +5,6 @@
 **Anmeldeformular, Lebenslauf (max. 1 Seite), Motivationsschreiben (max. 1 Seite) und Portfolio
 
 # Anmeldeformular
-
 # ![[Lebenslauf]]
 
 # Movtivationsschreiben

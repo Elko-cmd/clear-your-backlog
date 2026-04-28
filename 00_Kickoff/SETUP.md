@@ -34,15 +34,15 @@ Dieser Kurs arbeitet den "Backlog" ab, den die meisten Künstler\*innen und Gest
 
 ## Semesterplan
 
-| #     | Thema                                  | Inhalt                                                          | Modul                                                                                                         |
-| ----- | -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **1** | Kickoff & Organisation                 | Backlog-Audit, Einführung Obsidian, Vault aufsetzen             | [01_organize/](../01_organize/)                                                                               |
-| **2** | Über die eigene Arbeit schreiben       | Werkbeschreibungen in Paaren, kurze + lange Texte               | [02_Lebenslauf und Statement/](../02_Lebenslauf%20und%20Statement/)                                           |
-| **3** | Statement & CV                         | Themen-Cluster, Statement verfassen, CV-Workshop                | [02_Lebenslauf und Statement/](../02_Lebenslauf%20und%20Statement/)                                           |
-| **4** | Dokumentation & Tech Rider             | Arbeiten fotografieren/filmen, Tech Rider schreiben             | [04_document/](../04_document/), [06_techrider/](../06_techrider/)                                            |
-| **5** | Online gehen                           | Website-Baukästen, eigene Seite live stellen                    | [05_publish/](../05_publish/)                                                                                 |
-| **6** | Portfolio, Bewerbung & Förderung       | Portfolio-PDF, Anschreiben, Stipendien & Open Calls             | [07_Portfolio/](../07_Portfolio/), [03_Bewerbung und Förderung/](../03_Bewerbung%20und%20Förderung/)          |
-| **7** | Institutionen, Präsentation & Zukunft  | Institutional Mapping, Abschlusspräsentationen, Zukunftsentwurf | [08_Institution/](../08_Institution/)                                                                         |
+| #     | Thema                                 | Inhalt                                                          | Modul                                                                                                |
+| ----- | ------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **1** | Kickoff & Organisation                | Backlog-Audit, Einführung Obsidian, Vault aufsetzen             | [01_organize/](../01_organize/)                                                                      |
+| **2** | Über die eigene Arbeit schreiben      | Werkbeschreibungen in Paaren, kurze + lange Texte               | [02_Lebenslauf und Statement/](../02_Lebenslauf%20und%20Statement/)                                  |
+| **3** | Statement & CV                        | Themen-Cluster, Statement verfassen, CV-Workshop                | [02_Lebenslauf und Statement/](../02_Lebenslauf%20und%20Statement/)                                  |
+| **4** | Dokumentation & Tech Rider            | Arbeiten fotografieren/filmen, Tech Rider schreiben             | [04_document/](../04_document/), [06_techrider/](../06_techrider/)                                   |
+| **5** | Online gehen                          | Website-Baukästen, eigene Seite live stellen                    | [05_publish/](../05_publish/)                                                                        |
+| **6** | Portfolio, Bewerbung & Förderung      | Portfolio-PDF, Anschreiben, Stipendien & Open Calls             | [07_Portfolio/](../07_Portfolio/), [03_Bewerbung und Förderung/](../03_Bewerbung%20und%20Förderung/) |
+| **7** | Institutionen, Präsentation & Zukunft | Institutional Mapping, Abschlusspräsentationen, Zukunftsentwurf | [08_Institution/](../08_Institution/)                                                                |
 
 ---
 
