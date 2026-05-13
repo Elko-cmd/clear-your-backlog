@@ -47,9 +47,7 @@ Führt Zweier-Gespräche, in denen ihr euch gegenseitig eure Cluster zeigt und F
 - Plenum:
 Freiwillige stellen ihre Cluster vor, die Gruppe gibt Impulse.
 ## 4. Text verfassen (einzel)
-
 ### Strukturhilfe:
-
 - Einstieg: Was mache ich? (Medien, Formate, Schwerpunkte)
 - Vertiefung: Warum? Welche Fragen stelle ich? Was interessiert mich inhaltlich/formal?
 - Methode: Wie arbeite ich? Welche Prozesse, Tools oder Strategien sind wichtig?
@@ -62,7 +60,6 @@ Freiwillige stellen ihre Cluster vor, die Gruppe gibt Impulse.
 - Verbinde technische und konzeptuelle Aspekte
 
 ## Nächste Schritte:
-
 - Text ein paar Tage liegen lassen
 - Mit Abstand überarbeiten
 - Von anderen gegenlesen lassen (auch von Nicht-Gestalter*innen!)
@@ -80,32 +77,57 @@ The most powerful story we can tell about our work is why it matters. To US.
 https://luannudell.wordpress.com/category/artist-statement/
 ### Don'ts
 Glasstire — "Bad Artist Statements"
+
 Don't write earnest life-purpose declarations: "I love art, for me it is a way to live" / "Painting is my real life's path."
+
 Don't write vague universal-truth sentences: "I believe we can see beautiful art everywhere we look."
+
 Don't write circular cause-and-effect claims: "By opening people to new experiences and ideas, it can open their arts to others."
+
 Don't approach it like a high-school essay trying to sound like you read something you didn't.
+
 Don't use romantic, flowery language about your own work — reads as inexperienced and badly edited.
+
 Luann Udell — "How Not to Write an Artist Statement"
+
 Avoid clichés like "I love color" or "I am drawn to light" — could apply to any artist.
+
 Don't state the obvious: "I explore form and composition" — all visual art does.
+
 Skip "I am inspired by nature" — almost everyone says it.
+
 Don't use templates/fill-in-the-blank generators — "you cannot fill in the blanks with passion."
+
 Avoid artspeak and pretension — obscure language alienates rather than connects.
+
 Don't list famous teachers — only proves you could afford their fees.
+
 Don't lead with degrees or credentials — doesn't make the work special.
+
 Don't focus only on process/materials — misses the emotional core.
+
 No biographical padding — the statement isn't a CV.
+
 Don't play it safe — complacent language won't resonate.
+
 500letters.org (artist statement generator)
+
 This site is a parody — it auto-generates statements stitched from art-world buzzwords. The implicit "don'ts" are everything it produces:
 
 Don't use bloated jargon: "post-modern exploration of identity," "deconstructing the visual narrative," "juxtapose," "liminal space."
+
 Don't string together unrelated themes (abstraction + memory + landscape + identity) to sound deep.
+
 Don't use hedging verbs: "I am trying to…", "I hope to…", "I aspire to…", "I attempt to…"
+
 Don't use the "making art since I was a small child" trope or "finding the extraordinary in the ordinary."
+
 Rule of thumb: if a random generator could have written your sentence, rewrite it.
+
 Sources:
 
 Art Narc: Bad Artist Statements — Glasstire
+
 How Not to Write an Artist Statement — Luann Udell
+
 500 Letters artist statement generator
