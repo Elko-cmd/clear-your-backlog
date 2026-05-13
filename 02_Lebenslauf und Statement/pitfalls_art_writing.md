@@ -35,40 +35,37 @@ Wenn ihr ein Wort benutzt, das ihr nicht in zwei Sätzen jemandem erklären kön
 
 ---
 
-## 2. Passivkonstruktionen (6 Min.)
+## 2. Verschleierte Agency (5 Min.)
 
-**Was gemeint ist:** Passive Sätze verschleiern, wer handelt. In Kunst-Texten führt das oft dazu, dass die Arbeit selbst als handelndes Subjekt verschwindet.
+**Was gemeint ist:** Sätze, in denen unklar bleibt, wer oder was eigentlich handelt. Das passiert oft im Passiv ("es wird eine Spannung erzeugt") — aber nicht nur. Auch Aktivkonstruktionen können Agency verschleiern, wenn das Subjekt nichtssagend ist.
 
-### Schlecht
+**Wichtige Klarstellung:** Das Problem ist nicht das Passiv als grammatische Form. Passiv ist oft nützlich, etwa wenn der Empfänger einer Handlung wichtiger ist als der Handelnde. Das eigentliche Problem ist verschleierte Agency.
+
+### Schlecht (Passiv)
 
 > Es wird eine Spannung erzeugt zwischen dem projizierten Bild und dem akustischen Signal. Der Betrachter wird in eine Position der Unsicherheit versetzt.
 
-Wer erzeugt die Spannung? Die Arbeit? Die Künstlerin? Der Raum? Und: Wird der Betrachter wirklich "versetzt", oder passiert etwas Konkreteres?
+### Schlecht (Aktiv, aber genauso schwammig)
+
+> Die Arbeit erzeugt eine Spannung und versetzt den Betrachter in eine Position der Unsicherheit.
+
+Aktiv gemacht — aber das Subjekt "die Arbeit" leistet keine Arbeit. Wir wissen immer noch nicht, was passiert.
 
 ### Besser
 
 > Das projizierte Bild zeigt eine leere Bühne. Aus den Lautsprechern kommt Applaus. Man sieht niemanden — aber hört ein Publikum.
 
-Aktive Sätze, klare Subjekte. Der Widerspruch (leere Bühne / Applaus) erzeugt die Spannung — man muss sie nicht benennen.
+Konkrete Subjekte tun konkrete Dinge. Der Widerspruch erzeugt die Spannung — man muss sie nicht benennen.
 
 ### Noch ein Beispiel
 
-**Schlecht:**
+>**Schlecht:** Durch die Installation wird eine Reflexion über gesellschaftliche Machtverhältnisse angestoßen.
 
-> Durch die Installation wird eine Reflexion über gesellschaftliche Machtverhältnisse angestoßen.
-
-**Besser:**
-
-> Die Installation stellt zwei identische Stühle in einen Raum. Einer steht auf einem Podest. Besucher setzen sich fast immer auf den unteren.
-
-Die Reflexion über Macht passiert beim Lesen von selbst. Man muss sie nicht ankündigen.
+>**Besser:** Die Installation stellt zwei identische Stühle in einen Raum. Einer steht auf einem Podest. Besucher setzen sich fast immer auf den unteren.
 
 ### Faustregel
 
-Sucht in euren Texten nach "wird" und "werden". Jedes Mal fragen: Kann ich sagen, *wer* oder *was* das tut? Wenn ja — umschreiben.
-
----
-
+Sucht nach Sätzen, in denen die Arbeit oder der Betrachter etwas tut, ohne dass etwas Konkretes passiert. Fragt: Was tut die Arbeit physisch oder sichtbar? Wenn ihr das nicht beantworten könnt, fehlt im Text etwas.
 ## 3. Vagheit (6 Min.)
 
 **Was gemeint ist:** Sätze, die alles und nichts beschreiben könnten. Man könnte denselben Satz unter hundert verschiedene Arbeiten schreiben.

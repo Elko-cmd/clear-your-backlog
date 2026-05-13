@@ -21,7 +21,6 @@ Für die nächste Übung des Seminars bringt jede teilnehmende Person bitte eine
      * Konzept und Intention
      * Technische Umsetzung
      * Künstlerische Referenzen
-     * Aktuelle Herausforderungen
      * Zukünftige Entwicklungen
 ## Vorbereitung
 - Wählt eine Arbeit aus, für die ihr Text benötigt
@@ -63,5 +62,6 @@ Jede lesende Person gibt Feedback zum Text.
 
 ### Feedback
 - Was hast du von der Arbeit verstanden? 
+- Hast du ein Bild der Arbeit vor Augen?
 - Was ist dir aufgefallen?
 - Hast du Lust die Arbeit in Realität zu sehen, auf Grundlage des Textes?
