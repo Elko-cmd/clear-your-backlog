@@ -6,7 +6,7 @@
 In dieser Übung wollen wir uns mit unseren "Missonstatments" beschäftigen. Es ist eine schriftliche **Selbstdarstellung**, in der Kreative ihre künstlerische oder gestalterische Arbeit erklären und kontextualisieren. Es dient dazu, die eigene kreative Philosophie, Arbeitsweise und Motivation transparent zu machen und eine Verbindung zwischen der Arbeit und dem P**ublikum, potenziellen Arbeitgebern oder Auftraggebern** herzustellen. 
 In einem solchen Statement beschreiben Künstler|innen oder Mediengestalter|innen typischerweise ihre thematischen Schwerpunkte, die verwendeten Techniken und Medien, ihre gestalterischen Ansätze sowie die Intentionen hinter ihrer Arbeit. Dabei geht es nicht nur um eine **technische Beschreibung**, sondern auch um die **konzeptionellen und inhaltlichen Dimensionen** – was möchte ich mit meiner Arbeit ausdrücken, welche Fragen stelle ich, welche Reaktionen möchte ich hervorrufen? Ein gutes Statement ist prägnant, authentisch und vermittelt sowohl fachliche Kompetenz als auch die individuelle kreative Handschrift. Es wird häufig für Bewerbungen, Portfolios, Ausstellungen oder die eigene Website benötigt und sollte regelmäßig aktualisiert werden, um die eigene künstlerische oder gestalterische Entwicklung zu reflektieren.
 
-### 1. Themencluster bilden (einzel,ca. 30min)
+### 1. Themencluster bilden (einzel, ca. 30min)
 ### **Aufgabe:** Sammle spontan Gedanken zu deiner gestalterischen Arbeit. Schreibe Stichworte, Begriffe oder kurze Sätze auf Karten oder in dein Notizbuch.
 **Impulsfragen:**
 
@@ -68,6 +68,22 @@ Freiwillige stellen ihre Cluster vor, die Gruppe gibt Impulse.
 
 Hinweis: Ein Missonstatement ist nie "fertig" – es entwickelt sich mit deiner Praxis weiter. Es kann sinnvoll sein, verschiedene Versionen zu haben: eine für künstlerische Kontexte, eine für angewandte Projekte, eine für das Portfolio.
 
+# 5. Uebung (30 min. 15min schreiben - 15 min Reflektion)
+## Aufgabe :
+Alle schreiben das schlechteste Artist Statement, das sie können. Volle Erlaubnis für Artspeak, Buzzwords, Namedropping, vage Universalaussagen. Der Text soll _über die eigene Arbeit_ sein. 
+
+## Reflektion: 
+### _Was habe ich eigentlich gemeint?_ 
+Also: wenn da steht "Ich untersuche die Spannung zwischen dem Digitalen und dem Physischen", was genau passiert in meiner Arbeit, das ich so beschrieben habe? Kann ich es konkreter sagen? Oft stellt man fest: der Satz beschreibt gar nichts Bestimmtes, er klingt nur so.
+### _Was habe ich mir erspart, indem ich es so formuliert habe?_ 
+Artspeak funktioniert wie ein Platzhalter: "Ich verhandle Fragen von Identität und Zugehörigkeit" erspart mir zu sagen, _welche_ Frage, _wessen_ Zugehörigkeit, und _wie_ die Arbeit das tut. 
+Die vage Formulierung ist eine Vermeidungsstrategie.
+### _Könnte jemand anderes denselben Satz über eine völlig andere Arbeit schreiben?_ 
+Wenn ja, enthält der Satz null Information über die eigene Arbeit. Er beschreibt eine Gattung, keine Position.
+
+
+
+
 ## Reading
 https://glasstire.com/2008/06/03/art-narc-bad-artist-statements/
 https://luannudell.wordpress.com/tag/artist-statement-generator/
@@ -76,7 +92,7 @@ https://www.500letters.org/form_15.php
 The most powerful story we can tell about our work is why it matters. To US.
 https://luannudell.wordpress.com/category/artist-statement/
 ### Don'ts
-Glasstire — "Bad Artist Statements"
+### Glasstire — "Bad Artist Statements"
 
 Don't write earnest life-purpose declarations: "I love art, for me it is a way to live" / "Painting is my real life's path."
 
@@ -88,7 +104,7 @@ Don't approach it like a high-school essay trying to sound like you read somethi
 
 Don't use romantic, flowery language about your own work — reads as inexperienced and badly edited.
 
-Luann Udell — "How Not to Write an Artist Statement"
+### Luann Udell — "How Not to Write an Artist Statement"
 
 Avoid clichés like "I love color" or "I am drawn to light" — could apply to any artist.
 
@@ -110,7 +126,7 @@ No biographical padding — the statement isn't a CV.
 
 Don't play it safe — complacent language won't resonate.
 
-500letters.org (artist statement generator)
+### 500letters.org (artist statement generator)
 
 This site is a parody — it auto-generates statements stitched from art-world buzzwords. The implicit "don'ts" are everything it produces:
 
@@ -118,7 +134,7 @@ Don't use bloated jargon: "post-modern exploration of identity," "deconstructing
 
 Don't string together unrelated themes (abstraction + memory + landscape + identity) to sound deep.
 
-Don't use hedging verbs: "I am trying to…", "I hope to…", "I aspire to…", "I attempt to…"
+Don't ujse hedging verbs: "I am trying to…", "I hope to…", "I aspire to…", "I attempt to…"
 
 Don't use the "making art since I was a small child" trope or "finding the extraordinary in the ordinary."
 
