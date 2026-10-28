@@ -1,6 +1,6 @@
 # Clear your backlog
 
-Das ist das Repository zum Seminar "Clear your backlog" im SoSe26 an der Kunsthochschule Kassel im Bereich der Neuen Medien.
+Das ist das Repository zum Seminar "Clear your backlog" an der Kunsthochschule Kassel im Bereich der Neuen Medien.
 
 ---
 
