@@ -145,9 +145,7 @@ Kein Bewerten, kein "Du solltest lieber...", kein Relativieren.
 
 Ob Kunst- oder Designkontext -- die Strukturen koennen ueberwaeltigend wirken: Bewerbungen, Ablehnungen, Foerderlogiken, Netzwerke, Marktdynamiken. Es ist leicht, sich von aeusseren Anforderungen treiben zu lassen statt eigene Richtungen zu setzen. Diese Uebung erinnert daran: Ihr entscheidet, wohin ihr wollt. Nicht alles muss sofort passieren. Aber zu wissen, was man sich wuenscht, ist der erste Schritt.
 
-> *"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future."* -- Steve Jobs
->
-> *"The future is not some place we are going, but one we are creating."* -- John Schaar
+
 
 ---
 
