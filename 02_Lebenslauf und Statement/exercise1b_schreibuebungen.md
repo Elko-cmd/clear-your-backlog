@@ -141,20 +141,3 @@ Keine Verbesserungsvorschläge, keine Bewertung. Nur Resonanz.
 **Im Vault:** Den Satz beim jeweiligen Werk ablegen, zusammen mit den Rohtexten aus den anderen Übungen. Aus diesem Material entstehen später Statement, Website-Texte und Bewerbungen.
 
 ---
-
-## Vorschlag für den Ablauf in Session 2 (180 Min)
-
-| Zeit | Was |
-|---|---|
-| 0:00–0:15 | Check-in. Haltung klären: Heute geht es nicht um korrekte, sondern um persönliche Texte |
-| 0:15–0:25 | Übung 1: Der Anfang |
-| 0:25–0:45 | Übung 5: Das Gespräch am Küchentisch |
-| 0:45–1:05 | Übung 2: Brief an eine Person |
-| 1:05–1:15 | Pause |
-| 1:15–1:40 | Gemeinsam lesen: [„Wer spricht, wenn die Arbeit spricht?"](essay_wer_spricht.md) und kurzes Gespräch |
-| 1:40–1:55 | Übung 3 oder 7 (zur Wahl) |
-| 1:55–2:10 | Übung 8: Zurückschreiben |
-| 2:10–2:20 | Übung 6: Was ich nicht weiß |
-| 2:20–2:40 | Übung 9: Ein Satz, der bleibt, mit Leserunde |
-| 2:40–3:00 | Puffer, Fragen, Hausaufgabe |
-
