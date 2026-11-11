@@ -158,4 +158,3 @@ Keine Verbesserungsvorschläge, keine Bewertung. Nur Resonanz.
 | 2:20–2:40 | Übung 9: Ein Satz, der bleibt, mit Leserunde |
 | 2:40–3:00 | Puffer, Fragen, Hausaufgabe |
 
-**Hausaufgabe:** Übung 4 (Ich erinnere mich) zu Hause. Aus dem Material des Tages einen kurzen Text von max. 1000 Zeichen über eine Arbeit schreiben, der so klingt, als würdet ihr ihn einer Person erzählen, die ihr mögt.
